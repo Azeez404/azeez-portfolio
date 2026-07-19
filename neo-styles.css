@@ -74,7 +74,7 @@ html {
 .loader-letter {
   font-size: 6rem;
   font-weight: 700;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
   background: var(--white);
   border: 6px solid var(--border);
   box-shadow: 12px 12px 0 var(--border);
@@ -913,7 +913,7 @@ body[data-theme="dark"] .job-desc i {
 }
 
 .coffee-arrow-text {
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.8rem;
   font-weight: 700;
   color: var(--text);
@@ -1314,7 +1314,7 @@ body[data-theme="dark"] .job-desc i {
 
 .location-details p {
   color: var(--text);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 .journey-map {
@@ -1777,14 +1777,14 @@ body[data-theme="dark"] .stat-number {
 .tagline {
   font-size: 1.25rem;
   color: var(--text);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   margin-bottom: 0.5rem;
 }
 
 .location {
   font-size: 1rem;
   color: var(--text);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -1798,7 +1798,7 @@ body[data-theme="dark"] .stat-number {
 
 .btn {
   padding: 0.75rem 1.5rem;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 1rem;
   text-decoration: none;
@@ -2028,7 +2028,7 @@ body[data-theme="dark"] .stat-number {
   font-size: 0.85rem;
   color: var(--text);
   margin-bottom: 0.5rem;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 .timeline-description {
@@ -2043,7 +2043,7 @@ body[data-theme="dark"] .stat-number {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
 }
 
 .timeline-location i {
@@ -2092,7 +2092,7 @@ body[data-theme="dark"] .stat-number {
   border-radius: 0;
   box-shadow: 6px 6px 0 var(--border);
   padding: 0;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .leaflet-popup-content {
@@ -2169,7 +2169,7 @@ body[data-theme="dark"] .stat-number {
   font-size: 0.85rem;
   opacity: 0.8;
   display: block;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   margin-top: 0.25rem;
   font-weight: 600;
 }
@@ -2197,7 +2197,7 @@ body[data-theme="dark"] .stat-number {
   font-weight: 700;
   font-size: 10px;
   white-space: nowrap;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: var(--text);
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -2483,7 +2483,7 @@ body[data-theme="dark"] .map-popup-company span {
 
 .company {
   font-size: 1.125rem;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   color: var(--text);
   display: flex;
   align-items: center;
@@ -2511,7 +2511,7 @@ body[data-theme="dark"] .map-popup-company span {
   padding: 0.5rem 1rem;
   background: var(--primary);
   border: var(--border-width) solid var(--border);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   font-weight: 600;
   display: inline-flex;
@@ -2750,7 +2750,7 @@ body[data-theme="dark"] .map-popup-company span {
   padding: 0.5rem 1rem;
   background: var(--bg);
   border: var(--border-width) solid var(--border);
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   font-size: 0.875rem;
   font-weight: 600;
   transition: all 0.3s ease;
@@ -2896,7 +2896,7 @@ body[data-theme="dark"] .map-popup-company span {
 .contact-card span {
   font-size: 1.1rem;
   font-weight: 700;
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', sans-serif;
   letter-spacing: 0.5px;
 }
 
@@ -3015,7 +3015,7 @@ body[data-theme="dark"] .contact-card i {
 }
 
 .footer-bottom-compact span {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   font-size: 0.85rem;
   color: var(--text);
 }
@@ -3148,7 +3148,7 @@ body[data-theme="dark"] .footer-social-compact a:hover {
 
 .education-school {
   font-size: 1.2rem;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Inter', sans-serif;
   color: var(--text);
 }
 
@@ -3411,7 +3411,7 @@ body[data-theme="dark"] .language-item:hover {
 }
 
 .nav-lazyfire-text {
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 1.2rem;
   color: var(--text);
@@ -3429,7 +3429,7 @@ body[data-theme="dark"] .language-item:hover {
 }
 
 .creator-label {
-  font-family: 'Caveat', cursive;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.8rem;
   color: var(--text);
   margin-bottom: 1rem;
