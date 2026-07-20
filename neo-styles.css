@@ -2872,8 +2872,12 @@ body[data-theme="dark"] .map-popup-company span {
 }
 
 .contact-card:nth-child(3) {
-  background: #ff6b9d;
+  background: var(--white);
   transform: rotate(-1deg);
+}
+
+.contact-card:nth-child(4) {
+  background: #ff6b9d;
 }
 
 .contact-card:hover {
@@ -2909,6 +2913,10 @@ body[data-theme="dark"] .contact-card:nth-child(2) {
 }
 
 body[data-theme="dark"] .contact-card:nth-child(3) {
+  background: var(--white);
+}
+
+body[data-theme="dark"] .contact-card:nth-child(4) {
   background: #ff6b9d;
 }
 
